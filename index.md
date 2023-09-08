@@ -9,3 +9,6 @@ int main()
   return 0;
 }
 ```
+
+- [x] This is completed task
+- [ ] This is not completed

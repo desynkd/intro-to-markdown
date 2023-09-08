@@ -1,4 +1,4 @@
-# Header type 1
+
 <header>
 
 <!--

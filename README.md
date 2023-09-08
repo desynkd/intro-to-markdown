@@ -1,5 +1,5 @@
-<header>
 # Header type 1
+<header>
 
 <!--
   <<< Author notes: Course header >>>
